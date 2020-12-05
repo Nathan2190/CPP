@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-  cout << rand() << endl;  
-  return 0;
+    cout << rand() << endl;  
+    return 0;
 }
